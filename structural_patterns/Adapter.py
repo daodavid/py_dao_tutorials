@@ -1,3 +1,8 @@
+"""
+The adapter pattern is used to chain two different, incompatible interfaces.
+
+"""
+
 def execute(request):
     request.request()
 
@@ -23,5 +28,6 @@ class AddapterReuqst(HTTP, HTTPS):
     def request(self):
         self.securedRequest()
 
+a = AddapterReuqst()
 
-execute(AddapterReuqst())
+execute()

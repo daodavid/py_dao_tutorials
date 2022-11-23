@@ -1,25 +1,34 @@
-# originated
+def singleton(class_):
+    instances = {}
+
+    def getinstance(*args, **kwargs):
+        if class_ not in instances:
+            _a = class_(*args, **kwargs)
+        return _a
+
+    return getinstance
 
 
-class Singleton(object):
-    __instance = None
-    _instance2 = 5
-
-    def __new__(cls, *args, **kwargs):
-        if cls.__instance is None:
-            cls.__instance = super().__new__(cls, *args, **kwargs)
-
-        return cls.__instance
-
-    def __eq__(self, other):
-        return True
+@singleton
+class MyClass(object):
+    pass
 
 
-a = Singleton()
+@singleton
+class MyClass2(object):
+    pass
 
-b = Singleton()
+
+a = MyClass()
+
+b = MyClass()
 
 print(a)
 print(b)
-print(a is b)
-print(a == b)
+
+a = MyClass2()
+
+b = MyClass2()
+
+print(a)
+print(b)

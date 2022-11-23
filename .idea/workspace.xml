@@ -5,25 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="899c6adb-a197-47a7-911a-27c0220ee33a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8_20_2022/issue1_decorator_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_20_2022/issue2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavioral_patterns/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/behavioral_patterns/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy-totorial/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy-totorial/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-OOP-concepts/abstract_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structural_patterns/template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_27.09.2022/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asynch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/ternary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupling_and_cohesion/after_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataclasses/Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fast-api/api/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fast-api/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fast-api/api/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fast-api/api/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcoding/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcoding/comma_equal_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcoding/plus_euqals_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcoding/weirdenss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namespaces/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/namespaces/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_tuts/OPP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_tuts/OPP/atrubutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_tuts/OPP/descriptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_tuts/OPP/property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj_pool_examples/object_pool_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protocol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pydantic/examples/Example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pydantic/examples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pydantic/examples/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-OOP-concepts/_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-OOP-concepts/closures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-OOP-concepts/metaclasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-OOP-concepts/shugar_syntaxis_singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-OOP-concepts/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/disign/SOLID/single_responsible_principle/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/disign/abstract_factory/example.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/disign/abstract_factory/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/metaclasses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/metaclasses/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/metaclasses/example_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/metaclasses/example_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/metaclasses/example_@.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_/metaclasses/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advance_python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance_python/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural_patterns/Adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/structural_patterns/Adapter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structural_patterns/Decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/structural_patterns/Decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +56,98 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python-OOP-concepts/abstract_class.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/obj_pool_examples/object_pool_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pydantic/examples/Example1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/ternary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/behavioral_patterns/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2210">
+              <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mcoding/plus_euqals_operator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mcoding/comma_equal_operator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mcoding/weirdenss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pydantic/examples/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-154293491/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62169">
+              <caret line="3657" column="8" selection-start-line="3657" selection-start-column="8" selection-end-line="3657" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -47,6 +157,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -56,6 +167,8 @@
       <find>__first</find>
       <find>TextIOWrapper</find>
       <find>wriiter</find>
+      <find>ndArra</find>
+      <find>license_plate</find>
     </findStrings>
     <replaceStrings>
       <replace>__root</replace>
@@ -69,40 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/creational_patterns/abstract_factory" />
-        <option value="$PROJECT_DIR$/creational_patterns/abstract-facotory.py" />
-        <option value="$PROJECT_DIR$/creational_patterns/singleton.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao1.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao2.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao3.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao4.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao4-generators.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao5-function.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-6.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-6_generators.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-6_lambdas.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-6_args_kwargs.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-7_args_kwargs.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-8_inner_function.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/decorator.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-9_decorator.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-11_encapsulation.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-10_classes.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-12_abstraction.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-13_try_catch.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-14_context_manager.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-14_read_write_file.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-15_context_manager.py" />
-        <option value="$PROJECT_DIR$/tutorials_dao/dao-15_multi_threading.py" />
-        <option value="$PROJECT_DIR$/test-lessons/test1.py" />
-        <option value="$PROJECT_DIR$/test-lessons/test2.py" />
-        <option value="$PROJECT_DIR$/test-lessons/iterable-generators-exs.py" />
-        <option value="$PROJECT_DIR$/test-lessons/functions.py" />
-        <option value="$PROJECT_DIR$/test-lessons/closures.py" />
-        <option value="$PROJECT_DIR$/others/test1.py" />
-        <option value="$PROJECT_DIR$/others/test2.py" />
-        <option value="$PROJECT_DIR$/decorators/test1.py" />
-        <option value="$PROJECT_DIR$/others/test3.py" />
         <option value="$PROJECT_DIR$/structural_patterns/Decorator.py" />
         <option value="$PROJECT_DIR$/structural_patterns/Adapter.py" />
         <option value="$PROJECT_DIR$/structural_patterns/template.py" />
@@ -118,8 +197,42 @@
         <option value="$PROJECT_DIR$/8_20_2022/issue2.py" />
         <option value="$PROJECT_DIR$/behavioral_patterns/main.py" />
         <option value="$PROJECT_DIR$/test_27.09.2022/test1.py" />
-        <option value="$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py" />
         <option value="$PROJECT_DIR$/python-OOP-concepts/abstract_class.py" />
+        <option value="$PROJECT_DIR$/python-OOP-concepts/metaclasses.py" />
+        <option value="$PROJECT_DIR$/python-OOP-concepts/shugar_syntaxis_singleton.py" />
+        <option value="$PROJECT_DIR$/python-OOP-concepts/test.py" />
+        <option value="$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py" />
+        <option value="$PROJECT_DIR$/python-OOP-concepts/closures.py" />
+        <option value="$PROJECT_DIR$/python-OOP-concepts/_test.py" />
+        <option value="$PROJECT_DIR$/new_tuts/OPP/atrubutes.py" />
+        <option value="$PROJECT_DIR$/new_tuts/OPP/property.py" />
+        <option value="$PROJECT_DIR$/new_tuts/OPP/descriptor.py" />
+        <option value="$PROJECT_DIR$/python.py" />
+        <option value="$PROJECT_DIR$/python_/metaclasses/example_1.py" />
+        <option value="$PROJECT_DIR$/python_/metaclasses/example_@.py" />
+        <option value="$PROJECT_DIR$/python_/metaclasses/example_2.py" />
+        <option value="$PROJECT_DIR$/python_/disign/abstract_factory/example.ipynb" />
+        <option value="$PROJECT_DIR$/python_/disign/abstract_factory/example.py" />
+        <option value="$PROJECT_DIR$/python_/disign/SOLID/single_responsible_principle/example.py" />
+        <option value="$PROJECT_DIR$/python_/metaclasses/example.py" />
+        <option value="$PROJECT_DIR$/python_/metaclasses/test.py" />
+        <option value="$PROJECT_DIR$/namespaces/test.py" />
+        <option value="$PROJECT_DIR$/namespaces/intro.py" />
+        <option value="$PROJECT_DIR$/protocol/__init__.py" />
+        <option value="$PROJECT_DIR$/fast-api/api/requirements.txt" />
+        <option value="$PROJECT_DIR$/fast-api/api/Dockerfile" />
+        <option value="$PROJECT_DIR$/fast-api/api/app.py" />
+        <option value="$PROJECT_DIR$/asynch.py" />
+        <option value="$PROJECT_DIR$/dataclasses/Example.py" />
+        <option value="$PROJECT_DIR$/coupling_and_cohesion/after_code.py" />
+        <option value="$PROJECT_DIR$/obj_pool_examples/object_pool_manager.py" />
+        <option value="$PROJECT_DIR$/pydantic/examples/config.json" />
+        <option value="$PROJECT_DIR$/pydantic/examples/Example1.py" />
+        <option value="$PROJECT_DIR$/basic/ternary.py" />
+        <option value="$PROJECT_DIR$/basic/list.py" />
+        <option value="$PROJECT_DIR$/mcoding/plus_euqals_operator.py" />
+        <option value="$PROJECT_DIR$/mcoding/comma_equal_operator.py" />
+        <option value="$PROJECT_DIR$/mcoding/weirdenss.py" />
       </list>
     </option>
   </component>
@@ -132,7 +245,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,17 +254,13 @@
             </path>
             <path>
               <item name="py_dao_tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py_dao_tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="python-OOP-concepts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py_dao_tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,8 +279,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.abstract_class">
-    <configuration name="abstract_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.weirdenss">
+    <configuration name="comma_equal_operator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-tutorialls" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,11 +288,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-OOP-concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mcoding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-OOP-concepts/abstract_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mcoding/comma_equal_operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="issue2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-tutorialls" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,11 +309,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_20_2022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_20_2022/issue2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +322,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plus_euqals_operator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-tutorialls" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,11 +330,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/behavioral_patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mcoding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/behavioral_patterns/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mcoding/plus_euqals_operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +343,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="singleton-examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ternary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-tutorialls" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,11 +351,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-OOP-concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/ternary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +364,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="weirdenss" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-tutorialls" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +372,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_27.09.2022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mcoding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_27.09.2022/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mcoding/weirdenss.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,19 +386,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.issue2" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.test1" />
-      <item itemvalue="Python.singleton-examples" />
-      <item itemvalue="Python.abstract_class" />
+      <item itemvalue="Python.ternary" />
+      <item itemvalue="Python.list" />
+      <item itemvalue="Python.plus_euqals_operator" />
+      <item itemvalue="Python.comma_equal_operator" />
+      <item itemvalue="Python.weirdenss" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.abstract_class" />
-        <item itemvalue="Python.singleton-examples" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.issue2" />
+        <item itemvalue="Python.weirdenss" />
+        <item itemvalue="Python.comma_equal_operator" />
+        <item itemvalue="Python.plus_euqals_operator" />
+        <item itemvalue="Python.list" />
+        <item itemvalue="Python.ternary" />
       </list>
     </recent_temporary>
   </component>
@@ -312,27 +420,33 @@
       <option name="project" value="LOCAL" />
       <updated>1658757949420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="das">
+      <created>1665575695274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665575695291</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16649105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19072708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49315068" visible="true" weight="0.34707573" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5621707" weight="0.40268457" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.88092726" visible="true" weight="0.3413231" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7239199" weight="0.4084372" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4450194" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5068493" side_tool="true" visible="true" weight="0.34707573" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32858992" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49841937" weight="0.44487056" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.119072706" side_tool="true" visible="true" weight="0.3413231" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49947312" weight="0.3279003" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -499,29 +613,134 @@
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="52" />
+          <url>file://$PROJECT_DIR$/python-OOP-concepts/shugar_syntaxis_singleton.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="54" />
+          <url>file://$PROJECT_DIR$/python-OOP-concepts/_test.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py</url>
+          <url>file://$PROJECT_DIR$/python-OOP-concepts/_test.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-OOP-concepts/_test.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-OOP-concepts/_test.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-OOP-concepts/_test.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_tuts/OPP/descriptor.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_tuts/OPP/descriptor.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_tuts/OPP/descriptor.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/example_1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/example_1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/example_2.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/example_2.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/example_2.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/example_2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/example_2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/example_2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_/metaclasses/test.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/namespaces/intro.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fast-api/api/app.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataclasses/Example.py</url>
           <line>23</line>
-          <option name="timeStamp" value="55" />
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="56" />
+          <url>file://$PROJECT_DIR$/dataclasses/Example.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="57" />
+          <url>file://$PROJECT_DIR$/coupling_and_cohesion/after_code.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/coupling_and_cohesion/after_code.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/coupling_and_cohesion/after_code.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pydantic/examples/Example1.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -593,299 +812,51 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao5-function.py">
+    <entry file="file://$PROJECT_DIR$/behavioral_patterns/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/abstract_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="272">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1412029153/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-12_abstraction.py">
+    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/metaclasses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-15_context_manager.py">
+    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-14_read_write_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://D:/ProgramData/Anaconda3/Lib/abc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-11_encapsulation.py">
+    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/shugar_syntaxis_singleton.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-10_classes.py">
+    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="578">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/linkend-list-implementation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao1_types.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-6_generators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-15_multi_threading.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-13_try_catch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/text.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-lessons/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-lessons/iterable-generators-exs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-lessons/functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-lessons/closures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-8_closures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao4-generators.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/PIL/PcdImagePlugin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/ProgramData/Anaconda3/envs/py/Lib/pickletools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="281" column="15" selection-start-line="281" selection-start-column="15" selection-end-line="281" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-154293491/_io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="1346" column="8" selection-start-line="1346" selection-start-column="8" selection-end-line="1346" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structural_patterns/demofile2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structural_patterns/Decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/numpy/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="547" selection-start-line="547" selection-end-line="547" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numpy-totorial/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorials_dao/dao-7_args_kwars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structural_patterns/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structural_patterns/Adapter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorators/test2.py">
+    <entry file="file://$PROJECT_DIR$/new_tuts/OPP/atrubutes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorators/example.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorators/test1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorators/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#1#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance_python/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorators/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8_20_2022/issue1_decorator_time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8_20_2022/issue2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/behavioral_patterns/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/behavioral_patterns/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2261">
-          <caret line="136" selection-start-line="136" selection-end-line="136" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/ProgramData/Anaconda3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5117">
-          <caret line="302" column="32" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="32" />
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -896,31 +867,303 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-154293491/builtins.py">
+    <entry file="file://$PROJECT_DIR$/new_tuts/OPP/property.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="792" column="8" selection-start-line="792" selection-start-column="8" selection-end-line="792" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_tuts/OPP/descriptor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance_python/closure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance_python/decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance_python/operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance_python/references.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_/metaclasses/example_@.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_/disign/abstract_factory/example.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/closures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_/metaclasses/example_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_/metaclasses/example_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_/disign/abstract_factory/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="127" column="27" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_/metaclasses/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/singleton-examples.py">
+    <entry file="file://$PROJECT_DIR$/python_/disign/SOLID/single_responsible_principle/example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="435">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#797#806#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-OOP-concepts/abstract_class.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namespaces/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protocol/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/numpy/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="1677" column="6" selection-start-line="1677" selection-start-column="6" selection-end-line="1677" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namespaces/intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_/metaclasses/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fast-api/api/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/fastapi/applications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/uvicorn/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fast-api/api/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fast-api/api/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asynch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataclasses/Example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coupling_and_cohesion/after_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="44" column="57" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obj_pool_examples/object_pool_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pydantic/examples/Example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/ternary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral_patterns/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mcoding/plus_euqals_operator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mcoding/comma_equal_operator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pydantic/examples/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-154293491/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62169">
+          <caret line="3657" column="8" selection-start-line="3657" selection-start-column="8" selection-end-line="3657" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mcoding/weirdenss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
